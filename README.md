@@ -6,3 +6,4 @@
 2. Idea behind React.Js
 3. Analyzing a React Project
 4. Integrating React with the Share A Place Project
+---
